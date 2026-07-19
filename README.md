@@ -12,7 +12,7 @@ The project combines relational database design, SQL analytics, Power BI dashboa
 
 ## Supply Chain Performance Dashboard
 
-![Dashboard](Images/Dashboard_Overview.png)
+<img src="Images/dashboard_overview.png" width="850">
 
 ---
 
