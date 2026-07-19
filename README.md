@@ -2,41 +2,56 @@
 
 ## Overview
 
-This project demonstrates an end-to-end supply chain analytics solution developed to measure operational performance and forecasting efficiency.
+This project demonstrates an end-to-end supply chain analytics solution developed as part of my Master's Degree in Management Information Systems.
 
-The dashboard provides business insights through KPIs related to inventory management, logistics performance, and demand forecasting.
+The project integrates SQL, Python, Excel and Power BI to evaluate logistics performance, inventory management and demand forecasting.
 
 ---
 
-## Key Performance Indicators
+## Dashboard Preview
 
-- OTIF (On Time In Full)
-- Inventory Turnover
-- Stockout Rate
-- Forecast Accuracy (MAPE)
-- Order Performance
+(Resim burada)
 
 ---
 
 ## Technologies
 
-- Power BI
 - SQL
+- MySQL
 - Python
+- Power BI
 - Excel
 
 ---
 
-## Features
+## Key KPIs
 
-- Interactive dashboards
-- KPI monitoring
-- Forecast analysis
-- Supply chain performance evaluation
-- Business intelligence reporting
+- OTIF
+- Inventory Turnover
+- Stockout Rate
+- Forecast Accuracy (MAPE)
 
 ---
 
-## Project Type
+## Repository Structure
 
-Academic project developed during my Master's Degree in Management Information Systems.
+📂 powerbi
+
+📂 sql
+
+📂 data
+
+📂 images
+
+📂 Python_Frontend
+
+---
+
+## Project Files
+
+- Power BI Dashboard (.pbix)
+- SQL Forward Engineering Script
+- Project Documentation
+- Input Dataset
+- Output Reports
+- Python Frontend
