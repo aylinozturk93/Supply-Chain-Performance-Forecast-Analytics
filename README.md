@@ -125,6 +125,14 @@ Supply-Chain-Performance-Forecast-Analytics
 │
 ├── Python_Frontend/
 │
+├── SQL_Queries/
+│   ├── Forecast_Accuracy.sql
+│   ├── Inventory_Turnover.sql
+│   ├── Stockout_Rate.sql
+│   ├── Supplier_Performance.sql
+│   ├── Demand_Trend.sql
+│   └── Window_Functions.sql
+│
 ├── Forward_Engineering.sql
 ├── Supply_Chain_Performance_Dashboard.pbix
 └── Project_Report.pdf
